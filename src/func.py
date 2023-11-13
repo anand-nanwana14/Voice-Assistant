@@ -2,7 +2,7 @@ import random
 import sqlite3
 import speech_recognition as sr
 
-
+# Function 
 def randoming(board):
     lol = random.choice(board)
     return lol
