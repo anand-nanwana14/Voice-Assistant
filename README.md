@@ -1,5 +1,5 @@
 # Voice Assistant 🤖
-Voice Assistant has been written in Python 🐍 using PyAudio, SpeechRecognition, Pyttsx3 <br> <br>
+Voice Assistant has been written in Python 🐍 using PyAudio, SpeechRecognition, Pyttsx <br> <br>
     <a>
         <img src="https://img.shields.io/badge/build%20with-python3-red?style=for-the-badge&logo=appveyor" /> 
         <img src="https://img.shields.io/badge/version-1.0.0--beta-green?style=for-the-badge&logo=appveyor"/>
