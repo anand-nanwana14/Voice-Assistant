@@ -11,4 +11,4 @@ SpeechRecognition==3.8.1
 urllib3==1.26.11
 wikipedia==1.4.0
 wolframalpha==5.0.0
-xmltodict==0.13.0
+xmltodict==0.13.1
